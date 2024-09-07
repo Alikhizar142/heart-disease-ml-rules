@@ -29,9 +29,6 @@ The dataset used in this project is `heart.csv`, which includes the following at
 - **Exercise-Induced Angina**: Exercise-induced angina (1 = yes, 0 = no)
 - **Oldpeak**: Depression induced by exercise relative to rest
 - **Slope of Peak Exercise ST Segment**: Slope of the peak exercise ST segment (3 types)
-- **Number of Major Vessels**: Number of major vessels colored by fluoroscopy (0-3)
-- **Thal**: Thalassemia (3 types)
-
 ## Installation
 
 To get started with this project, follow these steps:
